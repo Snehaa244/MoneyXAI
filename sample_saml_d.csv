@@ -1,0 +1,100 @@
+﻿Time,Date,Sender_account,Receiver_account,Amount,Payment_currency,Received_currency,Sender_bank_location,Receiver_bank_location,Payment_type,Is_laundering,Laundering_type
+10:35:19,2022-10-07,8724731955,2769355426,1459.15,UK pounds,UK pounds,UK,UK,Cash Deposit,0,Normal_Cash_Deposits
+10:35:20,2022-10-07,1491989064,8401255335,6019.64,UK pounds,Dirham,UK,UAE,Cross-border,0,Normal_Fan_Out
+10:35:20,2022-10-07,287305149,4404767002,14328.44,UK pounds,UK pounds,UK,UK,Cheque,0,Normal_Small_Fan_Out
+10:35:21,2022-10-07,5376652437,9600420220,11895.0,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Fan_In
+10:35:21,2022-10-07,9614186178,3803336972,115.25,UK pounds,UK pounds,UK,UK,Cash Deposit,0,Normal_Cash_Deposits
+10:35:21,2022-10-07,8974559268,3143547511,5130.99,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Group
+10:35:23,2022-10-07,980191499,8577635959,12176.52,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Small_Fan_Out
+10:35:23,2022-10-07,8057793308,9350896213,56.9,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Small_Fan_Out
+10:35:26,2022-10-07,6116657264,656192169,4738.45,UK pounds,UK pounds,UK,UK,Cheque,0,Normal_Fan_Out
+10:35:29,2022-10-07,7421451752,2755709071,5883.87,Indian rupee,UK pounds,UK,UK,Credit card,0,Normal_Fan_Out
+10:35:31,2022-10-07,5119661534,9734073275,2342.31,UK pounds,UK pounds,UK,UK,Debit card,0,Normal_Small_Fan_Out
+10:35:34,2022-10-07,5606024775,8646193759,1239.61,UK pounds,UK pounds,UK,UK,Cash Deposit,0,Normal_Cash_Deposits
+10:35:34,2022-10-07,1405792399,5109623450,16555.31,UK pounds,Pakistani rupee,UK,UK,Credit card,0,Normal_Fan_In
+10:35:37,2022-10-07,2188890133,3938416782,15459.46,UK pounds,UK pounds,UK,UK,Cheque,0,Normal_Small_Fan_Out
+10:35:37,2022-10-07,6715177555,4460925916,586.28,UK pounds,UK pounds,UK,UK,Cheque,0,Normal_Small_Fan_Out
+10:35:37,2022-10-07,7017008854,3714297114,1971.15,UK pounds,Euro,UK,Spain,Cross-border,0,Normal_Small_Fan_Out
+10:35:38,2022-10-07,2047410771,6646502650,8110.72,UK pounds,Euro,UK,France,Cross-border,0,Normal_Fan_In
+10:35:41,2022-10-07,1470504995,3347268325,1190.3,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Group
+10:35:43,2022-10-07,4473647189,7892884492,11957.87,UK pounds,US dollar,UK,USA,Cross-border,0,Normal_Fan_In
+10:35:44,2022-10-07,8184612956,5628674969,10529.75,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Fan_In
+10:35:46,2022-10-07,3709430533,9172843471,5274.76,UK pounds,UK pounds,UK,UK,Debit card,0,Normal_Fan_Out
+10:35:50,2022-10-07,8331196922,7390946087,774.18,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Small_Fan_Out
+10:35:53,2022-10-07,7311441430,4362242478,8364.55,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Small_Fan_Out
+10:35:54,2022-10-07,9139420948,4473064900,1877.56,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Small_Fan_Out
+10:35:55,2022-10-07,6846270694,855729452,3166.12,UK pounds,UK pounds,UK,UK,Debit card,0,Normal_Group
+10:36:00,2022-10-07,374414130,3220735304,10463.94,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Fan_In
+10:36:01,2022-10-07,9239631224,3274570726,13230.72,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Small_Fan_Out
+10:36:04,2022-10-07,2004133484,3079818547,8095.66,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Fan_In
+10:36:04,2022-10-07,8723924487,8381540882,3839.09,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Small_Fan_Out
+10:36:04,2022-10-07,6533102627,9092261147,4731.86,UK pounds,UK pounds,UK,UK,Cash Deposit,0,Normal_Cash_Deposits
+10:36:05,2022-10-07,1203252958,8500212178,2438.3,UK pounds,Mexican Peso,UK,Mexico,Cross-border,0,Normal_Group
+10:36:07,2022-10-07,4021161031,979819164,3293.28,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Small_Fan_Out
+10:36:08,2022-10-07,5126390175,8518184956,5828.8,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Fan_In
+10:36:09,2022-10-07,1074336451,855832934,2299.29,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Small_Fan_Out
+10:36:13,2022-10-07,8389148416,721717864,16974.63,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Fan_Out
+10:36:14,2022-10-07,3510078932,9418077278,9766.13,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Fan_Out
+10:36:15,2022-10-07,8204380961,4816555386,3615.93,UK pounds,UK pounds,UK,UK,Cheque,0,Normal_Small_Fan_Out
+10:36:18,2022-10-07,936440682,4336977506,7405.41,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Fan_In
+10:36:23,2022-10-07,8410434333,8518184956,10960.64,UK pounds,UK pounds,UK,UK,Debit card,0,Normal_Fan_In
+10:36:31,2022-10-07,4082552798,4173195094,11974.68,UK pounds,UK pounds,UK,UK,Cheque,0,Normal_Fan_In
+10:36:34,2022-10-07,7669236826,6044424887,8560.28,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Fan_Out
+10:36:35,2022-10-07,1008340236,339701644,2868.46,UK pounds,Indian rupee,UK,UK,Credit card,0,Normal_Small_Fan_Out
+10:36:36,2022-10-07,1445991735,8941775586,33322.12,UK pounds,UK pounds,UK,UK,Cheque,0,Normal_Small_Fan_Out
+10:36:37,2022-10-07,757928908,6083019593,1626.05,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Group
+10:36:45,2022-10-07,109525315,8518184956,38707.49,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Fan_In
+10:36:48,2022-10-07,3696248769,3364557136,327.9,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Small_Fan_Out
+10:36:55,2022-10-07,5982914936,7950918410,10131.3,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Fan_Out
+10:36:57,2022-10-07,7541983570,3613886607,2100.74,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Small_Fan_Out
+10:36:59,2022-10-07,6517611333,7936590626,10623.2,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Small_Fan_Out
+10:37:05,2022-10-07,5896510161,1377603863,7603.2,UK pounds,UK pounds,UK,UK,Cheque,0,Normal_Fan_In
+10:37:07,2022-10-07,7012967496,6855935396,5468.75,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Fan_In
+10:37:08,2022-10-07,8952177221,6424463145,12682.06,UK pounds,UK pounds,UK,UK,Debit card,0,Normal_Fan_Out
+10:37:10,2022-10-07,3452368468,3828135271,5594.78,UK pounds,UK pounds,UK,UK,Debit card,0,Normal_Fan_Out
+10:37:15,2022-10-07,9119143782,1576773608,4568.89,UK pounds,UK pounds,UK,UK,Cash Deposit,0,Normal_Cash_Deposits
+10:37:15,2022-10-07,35328673,1794595555,652.29,UK pounds,UK pounds,UK,UK,Debit card,0,Normal_Small_Fan_Out
+10:37:18,2022-10-07,3050015080,3706844167,153.8,UK pounds,UK pounds,UK,UK,Cash Withdrawal,0,Normal_Cash_Withdrawal
+10:37:19,2022-10-07,8365941229,6444220418,8350.59,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Fan_In
+10:37:19,2022-10-07,6979398786,8494600637,4911.78,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Group
+10:37:21,2022-10-07,1877205049,2016944900,4249.69,UK pounds,UK pounds,UK,UK,Cash Deposit,0,Normal_Cash_Deposits
+10:37:23,2022-10-07,2206902878,5109623450,9831.65,UK pounds,UK pounds,UK,UK,Debit card,0,Normal_Fan_In
+10:37:27,2022-10-07,512171500,8669661419,614.89,UK pounds,UK pounds,UK,UK,Debit card,0,Normal_Small_Fan_Out
+10:37:29,2022-10-07,2797271466,5914713322,10918.76,UK pounds,UK pounds,UK,UK,Debit card,0,Normal_Fan_Out
+10:37:30,2022-10-07,3967122805,1493436023,5300.52,UK pounds,UK pounds,UK,UK,Cheque,0,Normal_Fan_In
+10:37:35,2022-10-07,8456279067,4358275767,13106.42,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Fan_Out
+10:37:41,2022-10-07,7189128119,4344504728,17651.63,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Small_Fan_Out
+10:37:42,2022-10-07,1294695860,5951743151,5795.55,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Small_Fan_Out
+10:37:45,2022-10-07,8695107817,2532987287,1334.75,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Small_Fan_Out
+10:37:49,2022-10-07,6949764034,1612314007,14303.33,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Periodical
+10:37:50,2022-10-07,3510078932,8722924810,8067.61,UK pounds,Albanian lek,UK,Albania,Cross-border,0,Normal_Fan_Out
+10:37:56,2022-10-07,7758268667,4389103342,9354.87,UK pounds,UK pounds,UK,UK,Debit card,0,Normal_Fan_Out
+10:38:01,2022-10-07,4036316426,7643602388,7377.8,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Small_Fan_Out
+10:38:02,2022-10-07,6431038386,4336977506,12831.3,UK pounds,UK pounds,UK,UK,Cheque,0,Normal_Fan_In
+10:38:02,2022-10-07,4339554565,6061705491,1360.82,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Small_Fan_Out
+10:38:04,2022-10-07,1710329832,8172080174,5308.47,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Fan_In
+10:38:07,2022-10-07,7402947955,1462289205,5536.81,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Small_Fan_Out
+10:38:07,2022-10-07,2939856893,2633911782,2563.16,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Small_Fan_Out
+10:38:09,2022-10-07,7758268667,9940921949,9099.99,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Fan_Out
+10:38:13,2022-10-07,2797271466,4528663768,7369.79,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Fan_Out
+10:38:16,2022-10-07,3168051873,999810092,11367.9,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Fan_Out
+10:38:19,2022-10-07,4712930207,1493436023,13408.68,UK pounds,UK pounds,UK,UK,Cheque,0,Normal_Fan_In
+10:38:20,2022-10-07,8188003704,6983898031,20662.11,UK pounds,UK pounds,UK,UK,Debit card,0,Normal_Small_Fan_Out
+10:38:24,2022-10-07,6375216043,3466136919,333.17,UK pounds,UK pounds,UK,UK,Cheque,0,Normal_Small_Fan_Out
+10:38:25,2022-10-07,3139337800,8817936053,3223.47,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Foward
+10:38:28,2022-10-07,3137540462,5061861850,734.2,UK pounds,UK pounds,UK,UK,Cash Deposit,0,Normal_Cash_Deposits
+10:38:29,2022-10-07,5021785800,737679962,4542.44,UK pounds,UK pounds,UK,UK,Cheque,0,Normal_Fan_Out
+10:38:31,2022-10-07,1429354049,4702471426,284.79,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Small_Fan_Out
+10:38:31,2022-10-07,3486760473,8468601858,1485.01,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Small_Fan_Out
+10:38:31,2022-10-07,5811321937,2032222230,241.18,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Small_Fan_Out
+10:38:31,2022-10-07,1074859180,5363117119,17413.99,UK pounds,UK pounds,UK,UK,ACH,0,Normal_Fan_In
+10:38:31,2022-10-07,6904668523,9408376441,7883.3,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Fan_Out
+10:38:36,2022-10-07,2422360624,1908962398,2407.26,UK pounds,UK pounds,UK,UK,Cheque,0,Normal_Small_Fan_Out
+10:38:41,2022-10-07,2056215656,4183747352,2567.43,UK pounds,UK pounds,UK,UK,Debit card,0,Normal_Small_Fan_Out
+10:38:46,2022-10-07,3345407297,2189418125,7901.92,UK pounds,UK pounds,UK,UK,Cheque,0,Normal_Small_Fan_Out
+10:38:46,2022-10-07,4150879707,409707192,10663.14,UK pounds,UK pounds,UK,UK,Cheque,0,Normal_Fan_In
+10:38:47,2022-10-07,9746384104,6333926499,13185.36,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Fan_Out
+10:38:50,2022-10-07,6516739348,3787011727,8985.37,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Small_Fan_Out
+10:38:53,2022-10-07,4808614002,7669085919,1740.32,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Group
+10:38:58,2022-10-07,1769527701,4308380343,441.4,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Small_Fan_Out
+10:38:58,2022-10-07,2434664247,6807695942,204.92,UK pounds,UK pounds,UK,UK,Credit card,0,Normal_Small_Fan_Out
