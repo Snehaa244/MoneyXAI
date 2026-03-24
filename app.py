@@ -12,9 +12,29 @@ st.set_page_config(page_title="MoneyXAI Fraud Detection", page_icon="💸", layo
 # ---------------- CUSTOM UI (BLACK + GOLD THEME) ----------------
 st.markdown("""
 <style>
+
+/* FULL PAGE BLACK FORCE */
+html, body, [class*="css"]  {
+    background-color: #020617 !important;
+    color: white !important;
+}
+
+/* Main App */
 .stApp {
-    background: linear-gradient(135deg, #0f172a, #020617);
-    color: white;
+    background: linear-gradient(135deg, #020617, #000000) !important;
+}
+
+/* Remove white containers */
+[data-testid="stAppViewContainer"] {
+    background-color: transparent !important;
+}
+
+/* Main content box */
+.block-container {
+    background: rgba(255,255,255,0.03) !important;
+    border-radius: 20px;
+    padding: 2rem;
+    backdrop-filter: blur(10px);
 }
 
 /* Titles */
@@ -25,23 +45,28 @@ h1, h2, h3 {
 
 /* Inputs */
 .stTextInput input, .stNumberInput input {
-    background-color: #111827;
-    color: white;
+    background-color: #020617 !important;
+    color: white !important;
+    border: 1px solid #FFD700 !important;
     border-radius: 10px;
-    border: 1px solid #FFD700;
-    padding: 10px;
 }
 
 /* Selectbox */
 .stSelectbox div {
-    background-color: #111827 !important;
+    background-color: #020617 !important;
     color: white !important;
+}
+
+/* Labels (IMPORTANT - yellow text) */
+label {
+    color: #FFD700 !important;
+    font-weight: 500;
 }
 
 /* Button */
 .stButton button {
     background: linear-gradient(90deg, #FFD700, #facc15);
-    color: blue;
+    color: blue !important;
     font-weight: bold;
     border-radius: 10px;
     padding: 12px;
@@ -53,12 +78,16 @@ h1, h2, h3 {
     background: linear-gradient(90deg, #facc15, #FFD700);
 }
 
-/* Card */
-.block-container {
-    padding: 2rem;
-    border-radius: 20px;
-    background: rgba(255,255,255,0.03);
-    backdrop-filter: blur(10px);
+/* Tabs */
+button[data-baseweb="tab"] {
+    color: #FFD700 !important;
+}
+
+/* Hover effect on inputs */
+.stTextInput input:hover,
+.stNumberInput input:hover {
+    border: 1px solid #facc15 !important;
+    box-shadow: 0 0 5px #FFD700;
 }
 
 /* Result Boxes */
@@ -66,15 +95,16 @@ h1, h2, h3 {
     padding:20px;
     border-radius:15px;
     background:rgba(0,255,0,0.1);
-    border:1px solid green;
+    border:1px solid #22c55e;
 }
 
 .error-box {
     padding:20px;
     border-radius:15px;
     background:rgba(255,0,0,0.1);
-    border:1px solid red;
+    border:1px solid #ef4444;
 }
+
 </style>
 """, unsafe_allow_html=True)
 
